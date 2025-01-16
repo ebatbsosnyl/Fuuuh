@@ -1,5 +1,5 @@
-"getgenv().whitelisted = true"
-                        warn("Wait 7 Seconds Script Is Loading!")
+getgenv().whitelisted = true
+                        warn("Wait 7 Seconds Script Is Loading")
                             wait(0.1)
                             repeat
                                 wait(0.1)
