@@ -1,4 +1,4 @@
-            getgenv(").whitelisted = true
+            getgenv().whitelisted = true
                         warn("Wait 7 Seconds Script Is Loading")
                             wait(0.1)
                             repeat
